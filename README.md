@@ -1,2 +1,3 @@
 Michael Scotello
-scotellm@oregonstate.edu	
+scotellm@oregonstate.edu
+purple
